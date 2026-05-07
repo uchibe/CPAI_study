@@ -4,3 +4,5 @@
 ## 強化学習基礎
 1. [バンディット問題学生用ノート](https://colab.research.google.com/github/uchibe/CPAI_study/blob/main/RLbasic/bandit_lecture1_for_student.ipynb)
 1. [バンディット解答ノート](https://colab.research.google.com/github/uchibe/CPAI_study/blob/main/RLbasic/bandit_lecture1.ipynb)
+2. [4x4 MDP問題学生用ノート](https://colab.research.google.com/github/uchibe/CPAI_study/blob/main/RLbasic/mdp_intro_student_exercise.ipynb)
+2. [4x4 MDP問題解答ノート](https://colab.research.google.com/github/uchibe/CPAI_study/blob/main/RLbasic/mdp_intro_instructor_solution.ipynb)
